@@ -1,0 +1,712 @@
+{
+    "가산디지털": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1013"
+    },
+    "가양": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9094"
+    },
+    "강동": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9010"
+    },
+    "건대입구": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1004"
+    },
+    "김포공항": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1009"
+    },
+    "노원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1003"
+    },
+    "도곡": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1023"
+    },
+    "독산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1017"
+    },
+    "브로드웨이": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9056"
+    },
+    "서울대입구": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1012"
+    },
+    "수락산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9099"
+    },
+    "수유": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9104"
+    },
+    "신도림": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1015"
+    },
+    "신림": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1007"
+    },
+    "에비뉴엘": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1001"
+    },
+    "영등포": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1002"
+    },
+    "용산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1014"
+    },
+    "월드타워": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1016"
+    },
+    "은평": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1021"
+    },
+    "중랑": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "9083"
+    },
+    "청량리": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1008"
+    },
+    "합정": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1010"
+    },
+    "홍대입구": {
+        "divisionCode": "1",
+        "detailDivisionCode": "1",
+        "cinemaID": "1005"
+    },
+    "광교아울렛": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3030"
+    },
+    "광명": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3027"
+    },
+    "광명아울렛": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3025"
+    },
+    "광주터미널": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3020"
+    },
+    "구리아울렛": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3026"
+    },
+    "동탄": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3048"
+    },
+    "라페스타": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9095"
+    },
+    "마석": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3021"
+    },
+    "별내": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3046"
+    },
+    "병점": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3017"
+    },
+    "부천": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3011"
+    },
+    "부천역": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9054"
+    },
+    "부평": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3003"
+    },
+    "부평역사": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3008"
+    },
+    "북수원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3045"
+    },
+    "산본피트인": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3031"
+    },
+    "서수원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3043"
+    },
+    "성남중앙": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3041"
+    },
+    "센트럴락": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3012"
+    },
+    "송탄": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3029"
+    },
+    "수원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3024"
+    },
+    "수지": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3044"
+    },
+    "시화": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9088"
+    },
+    "시흥장현": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3049"
+    },
+    "안산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3004"
+    },
+    "안산고잔": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3028"
+    },
+    "안성": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9106"
+    },
+    "안양": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3007"
+    },
+    "안양일번가": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3032"
+    },
+    "영종하늘도시": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9077"
+    },
+    "오산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9079"
+    },
+    "용인기흥": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3039"
+    },
+    "용인역북": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3040"
+    },
+    "위례": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3037"
+    },
+    "의정부민락": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3033"
+    },
+    "인덕원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9100"
+    },
+    "인천아시아드": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3035"
+    },
+    "인천터미널": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3038"
+    },
+    "주엽": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9087"
+    },
+    "진접": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3010"
+    },
+    "파주운정": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3034"
+    },
+    "판교": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3047"
+    },
+    "평촌": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3018"
+    },
+    "평택비전": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9075"
+    },
+    "하남미사": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "9096"
+    },
+    "향남": {
+        "divisionCode": "1",
+        "detailDivisionCode": "2",
+        "cinemaID": "3036"
+    },
+    "당진": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "9085"
+    },
+    "대전": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4002"
+    },
+    "대전관저": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4009"
+    },
+    "대전둔산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4006"
+    },
+    "대전센트럴": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4008"
+    },
+    "서산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "9044"
+    },
+    "서청주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4004"
+    },
+    "아산터미널": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4005"
+    },
+    "천안불당": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "9101"
+    },
+    "청주용암": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "4007"
+    },
+    "충주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "3",
+        "cinemaID": "9078"
+    },
+    "광주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6001"
+    },
+    "광주광산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "9065"
+    },
+    "군산나운": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6007"
+    },
+    "군산몰": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6009"
+    },
+    "수완": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6004"
+    },
+    "익산모현": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "9070"
+    },
+    "전주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6002"
+    },
+    "전주송천": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "9102"
+    },
+    "전주평화": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "6006"
+    },
+    "충장로": {
+        "divisionCode": "1",
+        "detailDivisionCode": "4",
+        "cinemaID": "9047"
+    },
+    "경산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5008"
+    },
+    "경주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9090"
+    },
+    "경주황성": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9091"
+    },
+    "구미공단": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5013"
+    },
+    "대구광장": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5012"
+    },
+    "대구율하": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5006"
+    },
+    "대구현풍": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9076"
+    },
+    "동성로": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5005"
+    },
+    "상인": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5016"
+    },
+    "상주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9080"
+    },
+    "성서": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "5004"
+    },
+    "영주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9064"
+    },
+    "영천": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9098"
+    },
+    "포항": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9097"
+    },
+    "프리미엄구미센트럴": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9067"
+    },
+    "프리미엄만경": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9066"
+    },
+    "프리미엄안동": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9074"
+    },
+    "프리미엄칠곡": {
+        "divisionCode": "1",
+        "detailDivisionCode": "5",
+        "cinemaID": "9057"
+    },
+    "거창": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9082"
+    },
+    "광복": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2009"
+    },
+    "김해부원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5015"
+    },
+    "김해아울렛": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5011"
+    },
+    "대영": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2012"
+    },
+    "동래": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2007"
+    },
+    "동부산아울렛": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2010"
+    },
+    "드라이브 오시리아": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9093"
+    },
+    "마산(합성동)": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9042"
+    },
+    "부산명지": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9092"
+    },
+    "부산본점": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2004"
+    },
+    "사천": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9084"
+    },
+    "서면": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2008"
+    },
+    "센텀시티": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2006"
+    },
+    "양산물금": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9103"
+    },
+    "엠비씨네": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9069"
+    },
+    "오투": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "2011"
+    },
+    "울산": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5001"
+    },
+    "울산성남": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5014"
+    },
+    "진주혁신": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5017"
+    },
+    "진해": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5009"
+    },
+    "창원": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "5002"
+    },
+    "통영": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9036"
+    },
+    "프리미엄경남대": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9072"
+    },
+    "프리미엄진주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9003"
+    },
+    "프리미엄해운대": {
+        "divisionCode": "1",
+        "detailDivisionCode": "101",
+        "cinemaID": "9059"
+    },
+    "남원주": {
+        "divisionCode": "1",
+        "detailDivisionCode": "6",
+        "cinemaID": "7001"
+    },
+    "동해": {
+        "divisionCode": "1",
+        "detailDivisionCode": "6",
+        "cinemaID": "7002"
+    },
+    "속초": {
+        "divisionCode": "1",
+        "detailDivisionCode": "6",
+        "cinemaID": "9089"
+    },
+    "원주무실": {
+        "divisionCode": "1",
+        "detailDivisionCode": "6",
+        "cinemaID": "7003"
+    },
+    "춘천": {
+        "divisionCode": "1",
+        "detailDivisionCode": "6",
+        "cinemaID": "9081"
+    },
+    "서귀포": {
+        "divisionCode": "1",
+        "detailDivisionCode": "7",
+        "cinemaID": "9013"
+    },
+    "제주삼화지구": {
+        "divisionCode": "1",
+        "detailDivisionCode": "7",
+        "cinemaID": "9068"
+    },
+    "제주아라": {
+        "divisionCode": "1",
+        "detailDivisionCode": "7",
+        "cinemaID": "9071"
+    }
+}

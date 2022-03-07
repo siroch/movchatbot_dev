@@ -1,0 +1,778 @@
+{
+    "CGV강남": {
+        "areacode": "01",
+        "theaterCode": "0056"
+    },
+    "CGV강변": {
+        "areacode": "01",
+        "theaterCode": "0001"
+    },
+    "CGV건대입구": {
+        "areacode": "01",
+        "theaterCode": "0229"
+    },
+    "CGV구로": {
+        "areacode": "01",
+        "theaterCode": "0010"
+    },
+    "CGV대학로": {
+        "areacode": "01",
+        "theaterCode": "0063"
+    },
+    "CGV동대문": {
+        "areacode": "01",
+        "theaterCode": "0252"
+    },
+    "CGV등촌": {
+        "areacode": "01",
+        "theaterCode": "0230"
+    },
+    "CGV명동": {
+        "areacode": "01",
+        "theaterCode": "0009"
+    },
+    "CGV명동역씨네라이브러리": {
+        "areacode": "01",
+        "theaterCode": "0105"
+    },
+    "CGV목동": {
+        "areacode": "01",
+        "theaterCode": "0011"
+    },
+    "CGV미아": {
+        "areacode": "01",
+        "theaterCode": "0057"
+    },
+    "CGV불광": {
+        "areacode": "01",
+        "theaterCode": "0030"
+    },
+    "CGV상봉": {
+        "areacode": "01",
+        "theaterCode": "0046"
+    },
+    "CGV성신여대입구": {
+        "areacode": "01",
+        "theaterCode": "0300"
+    },
+    "CGV송파": {
+        "areacode": "01",
+        "theaterCode": "0088"
+    },
+    "CGV수유": {
+        "areacode": "01",
+        "theaterCode": "0276"
+    },
+    "CGV신촌아트레온": {
+        "areacode": "01",
+        "theaterCode": "0150"
+    },
+    "CGV압구정": {
+        "areacode": "01",
+        "theaterCode": "0040"
+    },
+    "CGV압구정본관":{
+        "areacode": "01",
+        "theaterCode": "0040"
+    },
+    "CGV여의도": {
+        "areacode": "01",
+        "theaterCode": "0112"
+    },
+    "CGV연남": {
+        "areacode": "01",
+        "theaterCode": "0292"
+    },
+    "CGV영등포": {
+        "areacode": "01",
+        "theaterCode": "0059"
+    },
+    "CGV왕십리": {
+        "areacode": "01",
+        "theaterCode": "0074"
+    },
+    "CGV용산아이파크몰": {
+        "areacode": "01",
+        "theaterCode": "0013"
+    },
+    "CGV중계": {
+        "areacode": "01",
+        "theaterCode": "0131"
+    },
+    "CGV천호": {
+        "areacode": "01",
+        "theaterCode": "0199"
+    },
+    "CGV청담씨네시티": {
+        "areacode": "01",
+        "theaterCode": "0107"
+    },
+    "CGV피카디리1958": {
+        "areacode": "01",
+        "theaterCode": "0223"
+    },
+    "CGV하계": {
+        "areacode": "01",
+        "theaterCode": "0164"
+    },
+    "CGV홍대": {
+        "areacode": "01",
+        "theaterCode": "0191"
+    },
+    "CINE de CHEF 압구정": {
+        "regioncode": "103",
+        "theaterCode": "0040"
+    },
+    "CINE de CHEF 용산아이파크몰": {
+        "regioncode": "103",
+        "theaterCode": "0013"
+    },
+    "CGV경기광주": {
+        "areacode": "02",
+        "theaterCode": "0260"
+    },
+    "CGV고양행신": {
+        "areacode": "02",
+        "theaterCode": "0255"
+    },
+    "CGV광교": {
+        "areacode": "02",
+        "theaterCode": "0257"
+    },
+    "CGV광교상현": {
+        "areacode": "02",
+        "theaterCode": "0266"
+    },
+    "CGV구리": {
+        "areacode": "02",
+        "theaterCode": "0232"
+    },
+    "CGV기흥": {
+        "areacode": "02",
+        "theaterCode": "0344"
+    },
+    "CGV김포": {
+        "areacode": "02",
+        "theaterCode": "0278"
+    },
+    "CGV김포운양": {
+        "areacode": "02",
+        "theaterCode": "0188"
+    },
+    "CGV김포한강": {
+        "areacode": "02",
+        "theaterCode": "0298"
+    },
+    "CGV동백": {
+        "areacode": "02",
+        "theaterCode": "0124"
+    },
+    "CGV동수원": {
+        "areacode": "02",
+        "theaterCode": "0041"
+    },
+    "CGV동탄": {
+        "areacode": "02",
+        "theaterCode": "0106"
+    },
+    "CGV동탄역": {
+        "areacode": "02",
+        "theaterCode": "0265"
+    },
+    "CGV동탄호수공원": {
+        "areacode": "02",
+        "theaterCode": "0233"
+    },
+    "CGV배곧": {
+        "areacode": "02",
+        "theaterCode": "0226"
+    },
+    "CGV범계": {
+        "areacode": "02",
+        "theaterCode": "0155"
+    },
+    "CGV부천": {
+        "areacode": "02",
+        "theaterCode": "0015"
+    },
+    "CGV부천역": {
+        "areacode": "02",
+        "theaterCode": "0194"
+    },
+    "CGV부천옥길": {
+        "areacode": "02",
+        "theaterCode": "0287"
+    },
+    "CGV북수원": {
+        "areacode": "02",
+        "theaterCode": "0049"
+    },
+    "CGV산본": {
+        "areacode": "02",
+        "theaterCode": "0242"
+    },
+    "CGV서현": {
+        "areacode": "02",
+        "theaterCode": "0196"
+    },
+    "CGV성남모란": {
+        "areacode": "02",
+        "theaterCode": "0304"
+    },
+    "CGV소풍": {
+        "areacode": "02",
+        "theaterCode": "0143"
+    },
+    "CGV수원": {
+        "areacode": "02",
+        "theaterCode": "0012"
+    },
+    "CGV스타필드시티위례": {
+        "areacode": "02",
+        "theaterCode": "0274"
+    },
+    "CGV시흥": {
+        "areacode": "02",
+        "theaterCode": "0073"
+    },
+    "CGV안산": {
+        "areacode": "02",
+        "theaterCode": "0211"
+    },
+    "CGV안성": {
+        "areacode": "02",
+        "theaterCode": "0279"
+    },
+    "CGV야탑": {
+        "areacode": "02",
+        "theaterCode": "0003"
+    },
+    "CGV양주옥정": {
+        "areacode": "02",
+        "theaterCode": "0262"
+    },
+    "CGV역곡": {
+        "areacode": "02",
+        "theaterCode": "0338"
+    },
+    "CGV오리": {
+        "areacode": "02",
+        "theaterCode": "0004"
+    },
+    "CGV오산": {
+        "areacode": "02",
+        "theaterCode": "0305"
+    },
+    "CGV오산중앙": {
+        "areacode": "02",
+        "theaterCode": "0307"
+    },
+    "CGV용인": {
+        "areacode": "02",
+        "theaterCode": "0271"
+    },
+    "CGV의정부": {
+        "areacode": "02",
+        "theaterCode": "0113"
+    },
+    "CGV의정부태흥": {
+        "areacode": "02",
+        "theaterCode": "0187"
+    },
+    "CGV이천": {
+        "areacode": "02",
+        "theaterCode": "0205"
+    },
+    "CGV일산": {
+        "areacode": "02",
+        "theaterCode": "0054"
+    },
+    "CGV정왕": {
+        "areacode": "02",
+        "theaterCode": "0320"
+    },
+    "CGV죽전": {
+        "areacode": "02",
+        "theaterCode": "0055"
+    },
+    "CGV파주문산": {
+        "areacode": "02",
+        "theaterCode": "0148"
+    },
+    "CGV파주야당": {
+        "areacode": "02",
+        "theaterCode": "0310"
+    },
+    "CGV판교": {
+        "areacode": "02",
+        "theaterCode": "0181"
+    },
+    "CGV평촌": {
+        "areacode": "02",
+        "theaterCode": "0195"
+    },
+    "CGV평택": {
+        "areacode": "02",
+        "theaterCode": "0052"
+    },
+    "CGV평택고덕": {
+        "areacode": "02",
+        "theaterCode": "0334"
+    },
+    "CGV평택소사": {
+        "areacode": "02",
+        "theaterCode": "0214"
+    },
+    "CGV포천": {
+        "areacode": "02",
+        "theaterCode": "0309"
+    },
+    "CGV하남미사": {
+        "areacode": "02",
+        "theaterCode": "0326"
+    },
+    "CGV화성봉담": {
+        "areacode": "02",
+        "theaterCode": "0301"
+    },
+    "CGV화정": {
+        "areacode": "02",
+        "theaterCode": "0145"
+    },
+    "CGV DRIVE IN 곤지암": {
+        "areacode": "02",
+        "theaterCode": "0342"
+    },
+    "CGV계양": {
+        "areacode": "202",
+        "theaterCode": "0043"
+    },
+    "CGV남주안": {
+        "areacode": "202",
+        "theaterCode": "0198"
+    },
+    "CGV부평": {
+        "areacode": "202",
+        "theaterCode": "0021"
+    },
+    "CGV송도타임스페이스": {
+        "areacode": "202",
+        "theaterCode": "0325"
+    },
+    "CGV연수역": {
+        "areacode": "202",
+        "theaterCode": "0247"
+    },
+    "CGV인천": {
+        "areacode": "202",
+        "theaterCode": "0002"
+    },
+    "CGV인천공항": {
+        "areacode": "202",
+        "theaterCode": "0118"
+    },
+    "CGV인천논현": {
+        "areacode": "202",
+        "theaterCode": "0254"
+    },
+    "CGV인천도화": {
+        "areacode": "202",
+        "theaterCode": "0340"
+    },
+    "CGV인천연수": {
+        "areacode": "202",
+        "theaterCode": "0258"
+    },
+    "CGV인천학익": {
+        "areacode": "202",
+        "theaterCode": "0269"
+    },
+    "CGV주안역": {
+        "areacode": "202",
+        "theaterCode": "0308"
+    },
+    "CGV청라": {
+        "areacode": "202",
+        "theaterCode": "0235"
+    },
+    "CGV DRIVE IN 스퀘어원": {
+        "areacode": "202",
+        "theaterCode": "0339"
+    },
+    "CGV강릉": {
+        "areacode": "12",
+        "theaterCode": "0139"
+    },
+    "CGV원주": {
+        "areacode": "12",
+        "theaterCode": "0144"
+    },
+    "CGV인제": {
+        "areacode": "12",
+        "theaterCode": "0281"
+    },
+    "CGV춘천": {
+        "areacode": "12",
+        "theaterCode": "0070"
+    },
+    "CGV논산": {
+        "areacode": "03%2C205",
+        "theaterCode": "0261"
+    },
+    "CGV당진": {
+        "areacode": "03%2C205",
+        "theaterCode": "0207"
+    },
+    "CGV대전": {
+        "areacode": "03%2C205",
+        "theaterCode": "0007"
+    },
+    "CGV대전가수원": {
+        "areacode": "03%2C205",
+        "theaterCode": "0286"
+    },
+    "CGV대전가오": {
+        "areacode": "03%2C205",
+        "theaterCode": "0154"
+    },
+    "CGV대전탄방": {
+        "areacode": "03%2C205",
+        "theaterCode": "0202"
+    },
+    "CGV대전터미널": {
+        "areacode": "03%2C205",
+        "theaterCode": "0127"
+    },
+    "CGV보령": {
+        "areacode": "03%2C205",
+        "theaterCode": "0275"
+    },
+    "CGV서산": {
+        "areacode": "03%2C205",
+        "theaterCode": "0091"
+    },
+    "CGV세종": {
+        "areacode": "03%2C205",
+        "theaterCode": "0219"
+    },
+    "CGV유성노은": {
+        "areacode": "03%2C205",
+        "theaterCode": "0206"
+    },
+    "CGV천안": {
+        "areacode": "03%2C205",
+        "theaterCode": "0044"
+    },
+    "CGV천안시청": {
+        "areacode": "03%2C205",
+        "theaterCode": "0332"
+    },
+    "CGV천안터미널": {
+        "areacode": "03%2C205",
+        "theaterCode": "0293"
+    },
+    "CGV천안펜타포트": {
+        "areacode": "03%2C205",
+        "theaterCode": "0110"
+    },
+    "CGV청주(서문)": {
+        "areacode": "03%2C205",
+        "theaterCode": "0228"
+    },
+    "CGV청주성안길": {
+        "areacode": "03%2C205",
+        "theaterCode": "0297"
+    },
+    "CGV청주율량": {
+        "areacode": "03%2C205",
+        "theaterCode": "0282"
+    },
+    "CGV청주지웰시티": {
+        "areacode": "03%2C205",
+        "theaterCode": "0142"
+    },
+    "CGV청주터미널": {
+        "areacode": "03%2C205",
+        "theaterCode": "0319"
+    },
+    "CGV충북혁신": {
+        "areacode": "03%2C205",
+        "theaterCode": "0284"
+    },
+    "CGV충주교현": {
+        "areacode": "03%2C205",
+        "theaterCode": "0328"
+    },
+    "CGV홍성": {
+        "areacode": "03%2C205",
+        "theaterCode": "0217"
+    },
+    "CGV대구수성": {
+        "areacode": "11",
+        "theaterCode": "0157"
+    },
+    "CGV대구스타디움": {
+        "areacode": "11",
+        "theaterCode": "0108"
+    },
+    "CGV대구아카데미": {
+        "areacode": "11",
+        "theaterCode": "0185"
+    },
+    "CGV대구연경": {
+        "areacode": "11",
+        "theaterCode": "0343"
+    },
+    "CGV대구월성": {
+        "areacode": "11",
+        "theaterCode": "0216"
+    },
+    "CGV대구칠곡": {
+        "areacode": "11",
+        "theaterCode": "0071"
+    },
+    "CGV대구한일": {
+        "areacode": "11",
+        "theaterCode": "0147"
+    },
+    "CGV대구현대": {
+        "areacode": "11",
+        "theaterCode": "0109"
+    },
+    "CGV대연": {
+        "areacode": "05%2C207",
+        "theaterCode": "0061"
+    },
+    "CGV동래": {
+        "areacode": "05%2C207",
+        "theaterCode": "0042"
+    },
+    "CGV부산명지": {
+        "areacode": "05%2C207",
+        "theaterCode": "0337"
+    },
+    "CGV서면": {
+        "areacode": "05%2C207",
+        "theaterCode": "0005"
+    },
+    "CGV서면삼정타워": {
+        "areacode": "05%2C207",
+        "theaterCode": "0285"
+    },
+    "CGV서면상상마당": {
+        "areacode": "05%2C207",
+        "theaterCode": "0303"
+    },
+    "CGV센텀시티": {
+        "areacode": "05%2C207",
+        "theaterCode": "0089"
+    },
+    "CGV아시아드": {
+        "areacode": "05%2C207",
+        "theaterCode": "0160"
+    },
+    "CGV울산동구": {
+        "areacode": "05%2C207",
+        "theaterCode": "0335"
+    },
+    "CGV울산삼산": {
+        "areacode": "05%2C207",
+        "theaterCode": "0128"
+    },
+    "CGV울산신천": {
+        "areacode": "05%2C207",
+        "theaterCode": "0264"
+    },
+    "CGV울산진장": {
+        "areacode": "05%2C207",
+        "theaterCode": "0246"
+    },
+    "CGV정관": {
+        "areacode": "05%2C207",
+        "theaterCode": "0306"
+    },
+    "CGV하단아트몰링": {
+        "areacode": "05%2C207",
+        "theaterCode": "0245"
+    },
+    "CGV해운대": {
+        "areacode": "05%2C207",
+        "theaterCode": "0318"
+    },
+    "CGV화명": {
+        "areacode": "05%2C207",
+        "theaterCode": "0159"
+    },
+    "CINE de CHEF 센텀": {
+        "regioncode": "103",
+        "theaterCode": "0089"
+    },
+    "CGV거제": {
+        "areacode": "204",
+        "theaterCode": "0263"
+    },
+    "CGV경산": {
+        "areacode": "204",
+        "theaterCode": "0330"
+    },
+    "CGV고성": {
+        "areacode": "204",
+        "theaterCode": "0323"
+    },
+    "CGV구미": {
+        "areacode": "204",
+        "theaterCode": "0053"
+    },
+    "CGV김천율곡": {
+        "areacode": "204",
+        "theaterCode": "0240"
+    },
+    "CGV김해": {
+        "areacode": "204",
+        "theaterCode": "0028"
+    },
+    "CGV김해율하": {
+        "areacode": "204",
+        "theaterCode": "0311"
+    },
+    "CGV김해장유": {
+        "areacode": "204",
+        "theaterCode": "0239"
+    },
+    "CGV마산": {
+        "areacode": "204",
+        "theaterCode": "0033"
+    },
+    "CGV북포항": {
+        "areacode": "204",
+        "theaterCode": "0097"
+    },
+    "CGV안동": {
+        "areacode": "204",
+        "theaterCode": "0272"
+    },
+    "CGV양산삼호": {
+        "areacode": "204",
+        "theaterCode": "0234"
+    },
+    "CGV진주혁신": {
+        "areacode": "204",
+        "theaterCode": "0324"
+    },
+    "CGV창원": {
+        "areacode": "204",
+        "theaterCode": "0023"
+    },
+    "CGV창원더시티": {
+        "areacode": "204",
+        "theaterCode": "0079"
+    },
+    "CGV창원상남": {
+        "areacode": "204",
+        "theaterCode": "0283"
+    },
+    "CGV통영": {
+        "areacode": "204",
+        "theaterCode": "0156"
+    },
+    "CGV포항": {
+        "areacode": "204",
+        "theaterCode": "0045"
+    },
+    "CGV광양": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0220"
+    },
+    "CGV광양엘에프스퀘어": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0221"
+    },
+    "CGV광주금남로": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0295"
+    },
+    "CGV광주상무": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0193"
+    },
+    "CGV광주용봉": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0210"
+    },
+    "CGV광주첨단": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0218"
+    },
+    "CGV광주충장로": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0244"
+    },
+    "CGV광주터미널": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0090"
+    },
+    "CGV광주하남": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0215"
+    },
+    "CGV군산": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0277"
+    },
+    "CGV나주": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0237"
+    },
+    "CGV목포": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0289"
+    },
+    "CGV목포평화광장": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0280"
+    },
+    "CGV서전주": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0225"
+    },
+    "CGV순천": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0114"
+    },
+    "CGV순천신대": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0268"
+    },
+    "CGV여수웅천": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0315"
+    },
+    "CGV익산": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0020"
+    },
+    "CGV전주고사": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0213"
+    },
+    "CGV전주에코시티": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0336"
+    },
+    "CGV전주효자": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0179"
+    },
+    "CGV정읍": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0186"
+    },
+    "CGV제주": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0302"
+    },
+    "CGV제주노형": {
+        "areacode": "206%2C04%2C06",
+        "theaterCode": "0259"
+    }
+}
