@@ -30,7 +30,6 @@ class AI:
 
         return ds_ratings, ds_movies
 
-
 if __name__ == '__main__':
     ai = AI()
     print(ai.aitest()[0])
