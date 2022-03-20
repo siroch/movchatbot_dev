@@ -36,6 +36,15 @@ class AI:
         return ds_movies, ds_ratings, ds_data
 
 if __name__ == '__main__':
+    # 오류(SettingWithCopyError 발생)
+    pd.set_option('mode.chained_assignment', 'raise') # SettingWithCopyError
+
+    # 경고(SettingWithCopyWarning 발생, 기본 값입니다)
+    pd.set_option('mode.chained_assignment', 'warn') # SettingWithCopyWarning
+
+    # 무시
+    pd.set_option('mode.chained_assignment',  None) # <==== 경고를 끈다
+
     ai = AI()
     temp = ai.aitest()[0]
     movie_data = temp.genres.str.replace('|',',')
@@ -52,7 +61,7 @@ if __name__ == '__main__':
         txt = " ".join(movies_df['genres'][i])
         genres_list.append(txt)
 
-    movies_df['genres_literal'] = genres_list
+    movies_df.insert(8,"genres_literal",genres_list,True)
 
     print(movies_df)
 
