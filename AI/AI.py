@@ -35,6 +35,22 @@ class AI:
 
         return ds_movies, ds_ratings, ds_data
 
+    def find_sim_movie(self, df, sorted_ind, title_name, top_n=10):
+        title_movie = df[df['title']==title_name]
+
+        title_index = title_movie.index.values
+        similar_indexes = sorted_ind[title_index, :(top_n)]
+
+        print(similar_indexes)
+        similar_indexes = similar_indexes.reshape(-1)
+
+        return df.iloc[similar_indexes]
+
+def find_sim_movie_item(df, title_name, top_n=10):
+    title_movie_sim = df[[title_name]].drop(title_name, axis=0)
+
+    return title_movie_sim.sort_values(title_name, ascending=False)[:top_n]
+
 if __name__ == '__main__':
     # 오류(SettingWithCopyError 발생)
     pd.set_option('mode.chained_assignment', 'raise') # SettingWithCopyError
@@ -75,3 +91,22 @@ if __name__ == '__main__':
 
     genre_sim_sorted_ind = genre_sim.argsort()[:, ::-1]
     print(genre_sim_sorted_ind[:1])
+
+    similar_movies = ai.find_sim_movie(movies_df, genre_sim_sorted_ind, "The Godfather", 10)
+    print(similar_movies[['title', 'vote_average']])
+
+
+    movies = ai.aitest()[0]
+    ratings = ai.aitest()[1]
+
+    rating_movies = pd.merge(ratings, movies, on='movieId')
+    ratings_matrix = rating_movies.pivot_table('rating', index='userId', columns='title')
+    ratings_matrix.fillna(0, inplace=True)
+    ratings_matrix_T = ratings_matrix.transpose()
+    item_sim = cosine_similarity(ratings_matrix_T, ratings_matrix_T)
+    item_sim_df = pd.DataFrame(data=item_sim, index=ratings_matrix.columns, columns=ratings_matrix.columns)
+
+    print(item_sim_df.shape)
+    print(item_sim_df.head(2))
+
+    print(find_sim_movie_item(item_sim_df, 'Godfather, The (1972)'))
