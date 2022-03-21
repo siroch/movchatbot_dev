@@ -65,7 +65,8 @@ if __name__ == '__main__':
     temp = ai.aitest()[0]
     movie_data = temp.genres.str.replace('|',',')
     result2 = pd.concat([temp.title,movie_data],axis=1)
-
+    print(result2)
+    
     movies = ai.aitest()[2]
     movies_df = movies[['id', 'title', 'genres', 'vote_average', 'vote_count', 'popularity', 'keywords', 'overview']]
     genres_list = []
@@ -83,10 +84,8 @@ if __name__ == '__main__':
 
     count_vect = CountVectorizer(min_df=0, ngram_range=(1, 2))
     genre_mat = count_vect.fit_transform(movies_df['genres_literal'])
-    print(genre_mat.shape)
 
     genre_sim = cosine_similarity(genre_mat, genre_mat)
-    print(genre_sim.shape)
     print(genre_sim[:2])
 
     genre_sim_sorted_ind = genre_sim.argsort()[:, ::-1]
