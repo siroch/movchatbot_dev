@@ -1,778 +1,967 @@
 {
     "CGV강남": {
         "areacode": "01",
-        "theaterCode": "0056"
+        "theaterCode": "0056",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVgangnam.jpg"
     },
     "CGV강변": {
         "areacode": "01",
-        "theaterCode": "0001"
+        "theaterCode": "0001",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0107/15468415578940.png"
     },
     "CGV건대입구": {
         "areacode": "01",
-        "theaterCode": "0229"
+        "theaterCode": "0229",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0212/15184234292340.jpg"
     },
     "CGV구로": {
         "areacode": "01",
-        "theaterCode": "0010"
+        "theaterCode": "0010",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(40).jpg"
     },
     "CGV대학로": {
         "areacode": "01",
-        "theaterCode": "0063"
+        "theaterCode": "0063",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/1027/대학로문화극장04.jpg"
     },
     "CGV동대문": {
         "areacode": "01",
-        "theaterCode": "0252"
+        "theaterCode": "0252",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/1218/15135627350570.jpg"
     },
     "CGV등촌": {
         "areacode": "01",
-        "theaterCode": "0230"
+        "theaterCode": "0230",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0411/15549505447290.jpg"
     },
     "CGV명동": {
         "areacode": "01",
-        "theaterCode": "0009"
+        "theaterCode": "0009",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVmyeongdong.jpg"
     },
     "CGV명동역씨네라이브러리": {
         "areacode": "01",
-        "theaterCode": "0105"
+        "theaterCode": "0105",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0506/LIB.JPG"
     },
     "CGV목동": {
         "areacode": "01",
-        "theaterCode": "0011"
+        "theaterCode": "0011",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(42).jpg"
     },
     "CGV미아": {
         "areacode": "01",
-        "theaterCode": "0057"
+        "theaterCode": "0057",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVmia.jpg"
     },
     "CGV불광": {
         "areacode": "01",
-        "theaterCode": "0030"
+        "theaterCode": "0030",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(43).jpg"
     },
     "CGV상봉": {
         "areacode": "01",
-        "theaterCode": "0046"
+        "theaterCode": "0046",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0216/sangbong_1.jpg"
     },
     "CGV성신여대입구": {
         "areacode": "01",
-        "theaterCode": "0300"
+        "theaterCode": "0300",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1001/15699285160670.png"
     },
     "CGV송파": {
         "areacode": "01",
-        "theaterCode": "0088"
+        "theaterCode": "0088",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1214/16079376162750.jpg"
     },
     "CGV수유": {
         "areacode": "01",
-        "theaterCode": "0276"
+        "theaterCode": "0276",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0319/15214226265340.jpg"
     },
     "CGV신촌아트레온": {
         "areacode": "01",
-        "theaterCode": "0150"
+        "theaterCode": "0150",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVsinchonartreon.jpg"
     },
     "CGV압구정": {
         "areacode": "01",
-        "theaterCode": "0040"
+        "theaterCode": "0040",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0308/14889569732790.JPG"
     },
-    "CGV압구정본관":{
+    "CGV압구정본관": {
         "areacode": "01",
-        "theaterCode": "0040"
+        "theaterCode": "0040",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0308/14889569732790.JPG"
     },
     "CGV여의도": {
         "areacode": "01",
-        "theaterCode": "0112"
+        "theaterCode": "0112",
+        "img": "https://img.cgv.co.kr/R2014/images/sub/specialtheater/yeouido/yeouido01.jpg"
     },
     "CGV연남": {
         "areacode": "01",
-        "theaterCode": "0292"
+        "theaterCode": "0292",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0514/16209668518950.jpg"
     },
     "CGV영등포": {
         "areacode": "01",
-        "theaterCode": "0059"
+        "theaterCode": "0059",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvyoungdeungpo.jpg"
     },
     "CGV왕십리": {
         "areacode": "01",
-        "theaterCode": "0074"
+        "theaterCode": "0074",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0120/15794807818480.jpg"
     },
     "CGV용산아이파크몰": {
         "areacode": "01",
-        "theaterCode": "0013"
+        "theaterCode": "0013",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/1020/15084871764830.jpg"
     },
     "CGV중계": {
         "areacode": "01",
-        "theaterCode": "0131"
+        "theaterCode": "0131",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvjunggae.jpg"
     },
     "CGV천호": {
         "areacode": "01",
-        "theaterCode": "0199"
+        "theaterCode": "0199",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0710/CGV천호 _극장소개 _스피어엑스.jpg"
     },
     "CGV청담씨네시티": {
         "areacode": "01",
-        "theaterCode": "0107"
+        "theaterCode": "0107",
+        "img": "https://img.cgv.co.kr/R2014/images/sub/specialtheater/chungdam/main_chungdam.jpg"
     },
     "CGV피카디리1958": {
         "areacode": "01",
-        "theaterCode": "0223"
+        "theaterCode": "0223",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0218/picadiri.jpg"
     },
     "CGV하계": {
         "areacode": "01",
-        "theaterCode": "0164"
+        "theaterCode": "0164",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvhagae.jpg"
     },
     "CGV홍대": {
         "areacode": "01",
-        "theaterCode": "0191"
+        "theaterCode": "0191",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvhongdae.jpg"
     },
     "CINE de CHEF 압구정": {
         "regioncode": "103",
-        "theaterCode": "0040"
+        "theaterCode": "0040",
+        "img": "https://img.cgv.co.kr/WebApp/images/special/img_con_cinedechef_3.jpg"
     },
     "CINE de CHEF 용산아이파크몰": {
         "regioncode": "103",
-        "theaterCode": "0013"
+        "theaterCode": "0013",
+        "img": "https://img.cgv.co.kr/WebApp/images/special/img_con_cinedechef_3.jpg"
     },
     "CGV경기광주": {
         "areacode": "02",
-        "theaterCode": "0260"
+        "theaterCode": "0260",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0309/15205836456080.jpg"
     },
     "CGV고양행신": {
         "areacode": "02",
-        "theaterCode": "0255"
+        "theaterCode": "0255",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0220/15821834769790.jpg"
     },
     "CGV광교": {
         "areacode": "02",
-        "theaterCode": "0257"
+        "theaterCode": "0257",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1005/16018675939230.jpg"
     },
     "CGV광교상현": {
         "areacode": "02",
-        "theaterCode": "0266"
+        "theaterCode": "0266",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0817/15344706880530.jpg"
     },
     "CGV구리": {
         "areacode": "02",
-        "theaterCode": "0232"
+        "theaterCode": "0232",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1219/CGV구리점 투시도 2층 VIEW-1_4000x2285.jpg"
     },
     "CGV기흥": {
         "areacode": "02",
-        "theaterCode": "0344"
+        "theaterCode": "0344",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0913/16314993783080.jpg"
     },
     "CGV김포": {
         "areacode": "02",
-        "theaterCode": "0278"
+        "theaterCode": "0278",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0426/16194052022580.jpg"
     },
     "CGV김포운양": {
         "areacode": "02",
-        "theaterCode": "0188"
+        "theaterCode": "0188",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0912/15051750273400.jpg"
     },
     "CGV김포한강": {
         "areacode": "02",
-        "theaterCode": "0298"
+        "theaterCode": "0298",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0520/15583324470020.jpg"
     },
     "CGV동백": {
         "areacode": "02",
-        "theaterCode": "0124"
+        "theaterCode": "0124",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvdongback.jpg"
     },
     "CGV동수원": {
         "areacode": "02",
-        "theaterCode": "0041"
+        "theaterCode": "0041",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1210/15759380284040.jpg"
     },
     "CGV동탄": {
         "areacode": "02",
-        "theaterCode": "0106"
+        "theaterCode": "0106",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvdongtan.jpg"
     },
     "CGV동탄역": {
         "areacode": "02",
-        "theaterCode": "0265"
+        "theaterCode": "0265",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0327/15221386125490.jpg"
     },
     "CGV동탄호수공원": {
         "areacode": "02",
-        "theaterCode": "0233"
+        "theaterCode": "0233",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1224/16403354219180.jpg"
     },
     "CGV배곧": {
         "areacode": "02",
-        "theaterCode": "0226"
+        "theaterCode": "0226",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0109/15154574298950.jpg"
     },
     "CGV범계": {
         "areacode": "02",
-        "theaterCode": "0155"
+        "theaterCode": "0155",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0511/15891633779250.jpg"
     },
     "CGV부천": {
         "areacode": "02",
-        "theaterCode": "0015"
+        "theaterCode": "0015",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0716/15632684926560.JPG"
     },
     "CGV부천역": {
         "areacode": "02",
-        "theaterCode": "0194"
+        "theaterCode": "0194",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1230/980(1).jpg"
     },
     "CGV부천옥길": {
         "areacode": "02",
-        "theaterCode": "0287"
+        "theaterCode": "0287",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0818/15977121904490.jpg"
     },
     "CGV북수원": {
         "areacode": "02",
-        "theaterCode": "0049"
+        "theaterCode": "0049",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvbooksuwon.jpg"
     },
     "CGV산본": {
         "areacode": "02",
-        "theaterCode": "0242"
+        "theaterCode": "0242",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1201/noimage_final(37).jpg"
     },
     "CGV서현": {
         "areacode": "02",
-        "theaterCode": "0196"
+        "theaterCode": "0196",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0717/수정cgv서현.jpg"
     },
     "CGV성남모란": {
         "areacode": "02",
-        "theaterCode": "0304"
+        "theaterCode": "0304",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0123/15797430301640.jpg"
     },
     "CGV소풍": {
         "areacode": "02",
-        "theaterCode": "0143"
+        "theaterCode": "0143",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1026/16036898283660.jpg"
     },
     "CGV수원": {
         "areacode": "02",
-        "theaterCode": "0012"
+        "theaterCode": "0012",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0817/수원1(1).jpg"
     },
     "CGV스타필드시티위례": {
         "areacode": "02",
-        "theaterCode": "0274"
+        "theaterCode": "0274",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/1206/15440871456250.jpg"
     },
     "CGV시흥": {
         "areacode": "02",
-        "theaterCode": "0073"
+        "theaterCode": "0073",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0727/15958416903030.jpg"
     },
     "CGV안산": {
         "areacode": "02",
-        "theaterCode": "0211"
+        "theaterCode": "0211",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0312/CGV안산_aslsh(1).jpg"
     },
     "CGV안성": {
         "areacode": "02",
-        "theaterCode": "0279"
+        "theaterCode": "0279",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0801/15330875323910.png"
     },
     "CGV야탑": {
         "areacode": "02",
-        "theaterCode": "0003"
+        "theaterCode": "0003",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0131/yt.jpg"
     },
     "CGV양주옥정": {
         "areacode": "02",
-        "theaterCode": "0262"
+        "theaterCode": "0262",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0123/15797550049470.jpg"
     },
     "CGV역곡": {
         "areacode": "02",
-        "theaterCode": "0338"
+        "theaterCode": "0338",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0611/16233810066970.jpg"
     },
     "CGV오리": {
         "areacode": "02",
-        "theaterCode": "0004"
+        "theaterCode": "0004",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvori.jpg"
     },
     "CGV오산": {
         "areacode": "02",
-        "theaterCode": "0305"
+        "theaterCode": "0305",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1126/15747375893920.jpg"
     },
     "CGV오산중앙": {
         "areacode": "02",
-        "theaterCode": "0307"
+        "theaterCode": "0307",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1122/15743862500770.jpg"
     },
     "CGV용인": {
         "areacode": "02",
-        "theaterCode": "0271"
+        "theaterCode": "0271",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0330/15224028011320.jpg"
     },
     "CGV의정부": {
         "areacode": "02",
-        "theaterCode": "0113"
+        "theaterCode": "0113",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvyuijeongbu.jpg"
     },
     "CGV의정부태흥": {
         "areacode": "02",
-        "theaterCode": "0187"
+        "theaterCode": "0187",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvyuijeongbu taeheung.jpg"
     },
     "CGV이천": {
         "areacode": "02",
-        "theaterCode": "0205"
+        "theaterCode": "0205",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0224/CGV이천1(1).jpg"
     },
     "CGV일산": {
         "areacode": "02",
-        "theaterCode": "0054"
+        "theaterCode": "0054",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvilsan.jpg"
     },
     "CGV정왕": {
         "areacode": "02",
-        "theaterCode": "0320"
+        "theaterCode": "0320",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0629/15933997909410.jpg"
     },
     "CGV죽전": {
         "areacode": "02",
-        "theaterCode": "0055"
+        "theaterCode": "0055",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvjucjun.jpg"
     },
     "CGV파주문산": {
         "areacode": "02",
-        "theaterCode": "0148"
+        "theaterCode": "0148",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(11).jpg"
     },
     "CGV파주야당": {
         "areacode": "02",
-        "theaterCode": "0310"
+        "theaterCode": "0310",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0727/15958366914990.jpg"
     },
     "CGV판교": {
         "areacode": "02",
-        "theaterCode": "0181"
+        "theaterCode": "0181",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0923/CGVpangyo(1).jpg"
     },
     "CGV평촌": {
         "areacode": "02",
-        "theaterCode": "0195"
+        "theaterCode": "0195",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0612/pyung(1).JPG"
     },
     "CGV평택": {
         "areacode": "02",
-        "theaterCode": "0052"
+        "theaterCode": "0052",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1001/15699150237180.JPG"
     },
     "CGV평택고덕": {
         "areacode": "02",
-        "theaterCode": "0334"
+        "theaterCode": "0334",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1216/16396445437300.jpg"
     },
     "CGV평택소사": {
         "areacode": "02",
-        "theaterCode": "0214"
+        "theaterCode": "0214",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0714/15947141450180.jpg"
     },
     "CGV포천": {
         "areacode": "02",
-        "theaterCode": "0309"
+        "theaterCode": "0309",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0527/15905692828810.jpg"
     },
     "CGV하남미사": {
         "areacode": "02",
-        "theaterCode": "0326"
+        "theaterCode": "0326",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1127/16064611623830.jpg"
     },
     "CGV화성봉담": {
         "areacode": "02",
-        "theaterCode": "0301"
+        "theaterCode": "0301",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0812/15656069210800.jpg"
     },
     "CGV화정": {
         "areacode": "02",
-        "theaterCode": "0145"
+        "theaterCode": "0145",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(15).jpg"
     },
     "CGV DRIVE IN 곤지암": {
         "areacode": "02",
-        "theaterCode": "0342"
+        "theaterCode": "0342",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1020/16346905542120.jpeg"
     },
     "CGV계양": {
         "areacode": "202",
-        "theaterCode": "0043"
+        "theaterCode": "0043",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVgyeyang.jpg"
     },
     "CGV남주안": {
         "areacode": "202",
-        "theaterCode": "0198"
+        "theaterCode": "0198",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(1).jpg"
     },
     "CGV부평": {
         "areacode": "202",
-        "theaterCode": "0021"
+        "theaterCode": "0021",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0413/14920645701080.jpg"
     },
     "CGV송도타임스페이스": {
         "areacode": "202",
-        "theaterCode": "0325"
+        "theaterCode": "0325",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1208/16073912809020.jpg"
     },
     "CGV연수역": {
         "areacode": "202",
-        "theaterCode": "0247"
+        "theaterCode": "0247",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0713/14999113202140.jpg"
     },
     "CGV인천": {
         "areacode": "202",
-        "theaterCode": "0002"
-    },
-    "CGV인천공항": {
-        "areacode": "202",
-        "theaterCode": "0118"
+        "theaterCode": "0002",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0420/incheon.jpg"
     },
     "CGV인천논현": {
         "areacode": "202",
-        "theaterCode": "0254"
+        "theaterCode": "0254",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0629/14986976258330.jpg"
     },
     "CGV인천도화": {
         "areacode": "202",
-        "theaterCode": "0340"
+        "theaterCode": "0340",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0609/16232298806900.jpg"
     },
     "CGV인천연수": {
         "areacode": "202",
-        "theaterCode": "0258"
+        "theaterCode": "0258",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0831/15041797889080.jpg"
     },
     "CGV인천학익": {
         "areacode": "202",
-        "theaterCode": "0269"
+        "theaterCode": "0269",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0624/15929682503050.jpg"
     },
     "CGV주안역": {
         "areacode": "202",
-        "theaterCode": "0308"
+        "theaterCode": "0308",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0727/15958255627080.JPG"
     },
     "CGV청라": {
         "areacode": "202",
-        "theaterCode": "0235"
+        "theaterCode": "0235",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0502/15252571003780.jpg"
     },
     "CGV DRIVE IN 스퀘어원": {
         "areacode": "202",
-        "theaterCode": "0339"
+        "theaterCode": "0339",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0618/16239863020250.jpg"
     },
     "CGV강릉": {
         "areacode": "12",
-        "theaterCode": "0139"
+        "theaterCode": "0139",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGV Gangneung.jpg"
     },
     "CGV원주": {
         "areacode": "12",
-        "theaterCode": "0144"
+        "theaterCode": "0144",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvwonju.jpg"
     },
     "CGV인제": {
         "areacode": "12",
-        "theaterCode": "0281"
+        "theaterCode": "0281",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0917/15371775248250.jpg"
     },
     "CGV춘천": {
         "areacode": "12",
-        "theaterCode": "0070"
+        "theaterCode": "0070",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvchuncheon.jpg"
     },
     "CGV논산": {
         "areacode": "03%2C205",
-        "theaterCode": "0261"
+        "theaterCode": "0261",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0813/15972881621410.jpg"
     },
     "CGV당진": {
         "areacode": "03%2C205",
-        "theaterCode": "0207"
+        "theaterCode": "0207",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(16).jpg"
     },
     "CGV대전": {
         "areacode": "03%2C205",
-        "theaterCode": "0007"
+        "theaterCode": "0007",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVdeajeon.jpg"
     },
     "CGV대전가수원": {
         "areacode": "03%2C205",
-        "theaterCode": "0286"
+        "theaterCode": "0286",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0821/15663508500030.jpg"
     },
     "CGV대전가오": {
         "areacode": "03%2C205",
-        "theaterCode": "0154"
+        "theaterCode": "0154",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(37).jpg"
     },
     "CGV대전탄방": {
         "areacode": "03%2C205",
-        "theaterCode": "0202"
+        "theaterCode": "0202",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0411/noimage_final(37).jpg"
     },
     "CGV대전터미널": {
         "areacode": "03%2C205",
-        "theaterCode": "0127"
+        "theaterCode": "0127",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVdeajeonterminal.jpg"
     },
     "CGV보령": {
         "areacode": "03%2C205",
-        "theaterCode": "0275"
+        "theaterCode": "0275",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0115/15160073766430.jpg"
     },
     "CGV서산": {
         "areacode": "03%2C205",
-        "theaterCode": "0091"
+        "theaterCode": "0091",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0710/noimage_final(37).jpg"
     },
     "CGV세종": {
         "areacode": "03%2C205",
-        "theaterCode": "0219"
+        "theaterCode": "0219",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/1208/sejong_mian.jpg"
     },
     "CGV유성노은": {
         "areacode": "03%2C205",
-        "theaterCode": "0206"
+        "theaterCode": "0206",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(39).jpg"
     },
     "CGV천안": {
         "areacode": "03%2C205",
-        "theaterCode": "0044"
+        "theaterCode": "0044",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVcheonan.jpg"
     },
     "CGV천안시청": {
         "areacode": "03%2C205",
-        "theaterCode": "0332"
+        "theaterCode": "0332",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0723/16270028025040.jpg"
     },
     "CGV천안터미널": {
         "areacode": "03%2C205",
-        "theaterCode": "0293"
+        "theaterCode": "0293",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0128/15486556953070.jpg"
     },
     "CGV천안펜타포트": {
         "areacode": "03%2C205",
-        "theaterCode": "0110"
+        "theaterCode": "0110",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVcheonanpentaport.JPG"
     },
     "CGV청주(서문)": {
         "areacode": "03%2C205",
-        "theaterCode": "0228"
+        "theaterCode": "0228",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0202/noimage_final(37).jpg"
     },
     "CGV청주성안길": {
         "areacode": "03%2C205",
-        "theaterCode": "0297"
+        "theaterCode": "0297",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0729/15643621509920.jpg"
     },
     "CGV청주율량": {
         "areacode": "03%2C205",
-        "theaterCode": "0282"
+        "theaterCode": "0282",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/1023/15402627236460.jpg"
     },
     "CGV청주지웰시티": {
         "areacode": "03%2C205",
-        "theaterCode": "0142"
+        "theaterCode": "0142",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0822/15033598033210.jpg"
     },
     "CGV청주터미널": {
         "areacode": "03%2C205",
-        "theaterCode": "0319"
+        "theaterCode": "0319",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0706/15939981493880.jpg"
     },
     "CGV충북혁신": {
         "areacode": "03%2C205",
-        "theaterCode": "0284"
+        "theaterCode": "0284",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0401/15540895313860.jpg"
     },
     "CGV충주교현": {
         "areacode": "03%2C205",
-        "theaterCode": "0328"
+        "theaterCode": "0328",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0331/16171669743190.png"
     },
     "CGV홍성": {
         "areacode": "03%2C205",
-        "theaterCode": "0217"
+        "theaterCode": "0217",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0327/15221402904040.jpg"
     },
     "CGV대구수성": {
         "areacode": "11",
-        "theaterCode": "0157"
+        "theaterCode": "0157",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1109/main.jpg"
     },
     "CGV대구스타디움": {
         "areacode": "11",
-        "theaterCode": "0108"
+        "theaterCode": "0108",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvdaegustadium.jpg"
     },
     "CGV대구아카데미": {
         "areacode": "11",
-        "theaterCode": "0185"
+        "theaterCode": "0185",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/1211/15129517362300.jpg"
     },
     "CGV대구연경": {
         "areacode": "11",
-        "theaterCode": "0343"
+        "theaterCode": "0343",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1007/16335684837750.jpg"
     },
     "CGV대구월성": {
         "areacode": "11",
-        "theaterCode": "0216"
+        "theaterCode": "0216",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1216/WOLSUNG1.jpg"
     },
     "CGV대구칠곡": {
         "areacode": "11",
-        "theaterCode": "0071"
+        "theaterCode": "0071",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/1221/DSC_3939(1).JPG"
     },
     "CGV대구한일": {
         "areacode": "11",
-        "theaterCode": "0147"
+        "theaterCode": "0147",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0318/eorngksdlf(1).jpeg"
     },
     "CGV대구현대": {
         "areacode": "11",
-        "theaterCode": "0109"
+        "theaterCode": "0109",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0506/DGHD(1).jpg"
     },
     "CGV대연": {
         "areacode": "05%2C207",
-        "theaterCode": "0061"
+        "theaterCode": "0061",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(32).jpg"
     },
     "CGV동래": {
         "areacode": "05%2C207",
-        "theaterCode": "0042"
+        "theaterCode": "0042",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVdongnae.jpg"
     },
     "CGV부산명지": {
         "areacode": "05%2C207",
-        "theaterCode": "0337"
+        "theaterCode": "0337",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1231/16409303011110.jpg"
     },
     "CGV서면": {
         "areacode": "05%2C207",
-        "theaterCode": "0005"
+        "theaterCode": "0005",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0818/CGV서면.JPG"
     },
     "CGV서면삼정타워": {
         "areacode": "05%2C207",
-        "theaterCode": "0285"
+        "theaterCode": "0285",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0701/15619472810530.jpg"
     },
     "CGV서면상상마당": {
         "areacode": "05%2C207",
-        "theaterCode": "0303"
+        "theaterCode": "0303",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2022/0127/16432748896230.png"
     },
     "CGV센텀시티": {
         "areacode": "05%2C207",
-        "theaterCode": "0089"
+        "theaterCode": "0089",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVcentumcity.jpg"
     },
     "CGV아시아드": {
         "areacode": "05%2C207",
-        "theaterCode": "0160"
+        "theaterCode": "0160",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2022/0203/16438723743380.png"
     },
     "CGV울산동구": {
         "areacode": "05%2C207",
-        "theaterCode": "0335"
+        "theaterCode": "0335",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2022/0107/16415371272670.jpg"
     },
     "CGV울산삼산": {
         "areacode": "05%2C207",
-        "theaterCode": "0128"
+        "theaterCode": "0128",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0421/ulsan_final.jpg"
     },
     "CGV울산신천": {
         "areacode": "05%2C207",
-        "theaterCode": "0264"
+        "theaterCode": "0264",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1202/15752484607230.jpg"
     },
     "CGV울산진장": {
         "areacode": "05%2C207",
-        "theaterCode": "0246"
+        "theaterCode": "0246",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/1129/15434547009640.png"
     },
     "CGV정관": {
         "areacode": "05%2C207",
-        "theaterCode": "0306"
+        "theaterCode": "0306",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1014/15710270485450.jpg"
     },
     "CGV하단아트몰링": {
         "areacode": "05%2C207",
-        "theaterCode": "0245"
+        "theaterCode": "0245",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0217/noimage_final(37).jpg"
     },
     "CGV해운대": {
         "areacode": "05%2C207",
-        "theaterCode": "0318"
+        "theaterCode": "0318",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/0706/16255628162270.jpg"
     },
     "CGV화명": {
         "areacode": "05%2C207",
-        "theaterCode": "0159"
+        "theaterCode": "0159",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2022/0127/16432759468070.png"
     },
     "CINE de CHEF 센텀": {
         "regioncode": "103",
-        "theaterCode": "0089"
+        "theaterCode": "0089",
+        "img": "https://img.cgv.co.kr/WebApp/images/special/img_con_cinedechef_3.jpg"
     },
     "CGV거제": {
         "areacode": "204",
-        "theaterCode": "0263"
+        "theaterCode": "0263",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0719/15635066649890.jpg"
     },
     "CGV경산": {
         "areacode": "204",
-        "theaterCode": "0330"
+        "theaterCode": "0330",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1020/16347151565970.jpg"
     },
     "CGV고성": {
         "areacode": "204",
-        "theaterCode": "0323"
+        "theaterCode": "0323",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0925/16010208692080.jpg"
     },
     "CGV구미": {
         "areacode": "204",
-        "theaterCode": "0053"
+        "theaterCode": "0053",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(17).jpg"
     },
     "CGV김천율곡": {
         "areacode": "204",
-        "theaterCode": "0240"
+        "theaterCode": "0240",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0822/15033599823400.jpg"
     },
     "CGV김해": {
         "areacode": "204",
-        "theaterCode": "0028"
+        "theaterCode": "0028",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1104/김해_3.jpg"
     },
     "CGV김해율하": {
         "areacode": "204",
-        "theaterCode": "0311"
+        "theaterCode": "0311",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0326/15852089777760.jpg"
     },
     "CGV김해장유": {
         "areacode": "204",
-        "theaterCode": "0239"
+        "theaterCode": "0239",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/1130/noimage_final(37)(1).jpg"
     },
     "CGV마산": {
         "areacode": "204",
-        "theaterCode": "0033"
+        "theaterCode": "0033",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvmasan.jpg"
     },
     "CGV북포항": {
         "areacode": "204",
-        "theaterCode": "0097"
+        "theaterCode": "0097",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0914/2층 로비사진_북포항(1).jpg"
     },
     "CGV안동": {
         "areacode": "204",
-        "theaterCode": "0272"
+        "theaterCode": "0272",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/1210/15444041454110.jpg"
     },
     "CGV양산삼호": {
         "areacode": "204",
-        "theaterCode": "0234"
+        "theaterCode": "0234",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1216/15764647329870.jpg"
     },
     "CGV진주혁신": {
         "areacode": "204",
-        "theaterCode": "0324"
+        "theaterCode": "0324",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/0925/16010214608560.jpg"
     },
     "CGV창원": {
         "areacode": "204",
-        "theaterCode": "0023"
+        "theaterCode": "0023",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvchangwon.jpg"
     },
     "CGV창원더시티": {
         "areacode": "204",
-        "theaterCode": "0079"
+        "theaterCode": "0079",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvchangwonthecity.jpg"
     },
     "CGV창원상남": {
         "areacode": "204",
-        "theaterCode": "0283"
+        "theaterCode": "0283",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2020/1006/16019636232210.jpg"
     },
     "CGV통영": {
         "areacode": "204",
-        "theaterCode": "0156"
+        "theaterCode": "0156",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(23).jpg"
     },
     "CGV포항": {
         "areacode": "204",
-        "theaterCode": "0045"
+        "theaterCode": "0045",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0114/포항로비_2(1).JPG"
     },
     "CGV광양": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0220"
+        "theaterCode": "0220",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0530/14961119243640.jpg"
     },
     "CGV광양엘에프스퀘어": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0221"
+        "theaterCode": "0221",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0118/noimage_final(37).jpg"
     },
     "CGV광주금남로": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0295"
+        "theaterCode": "0295",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0426/15562394232030.jpg"
     },
     "CGV광주상무": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0193"
+        "theaterCode": "0193",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0206/광주상무로비2.jpg"
     },
     "CGV광주용봉": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0210"
+        "theaterCode": "0210",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0304/cgvgangjuyoungbong.jpg"
     },
     "CGV광주첨단": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0218"
+        "theaterCode": "0218",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2015/0930/noimage_final(37).jpg"
     },
     "CGV광주충장로": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0244"
+        "theaterCode": "0244",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0118/noimage_final(37)(1).jpg"
     },
     "CGV광주터미널": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0090"
+        "theaterCode": "0090",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/cgvgangjuterminal.jpg"
     },
     "CGV광주하남": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0215"
+        "theaterCode": "0215",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/1030/15408633163130.jpg"
     },
     "CGV군산": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0277"
+        "theaterCode": "0277",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0321/15216146222880.jpg"
     },
     "CGV나주": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0237"
+        "theaterCode": "0237",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2017/0911/15051054261810.jpg"
     },
     "CGV목포": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0289"
+        "theaterCode": "0289",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0612/15603036950140.png"
     },
     "CGV목포평화광장": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0280"
+        "theaterCode": "0280",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0612/15603037415380.png"
     },
     "CGV서전주": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0225"
+        "theaterCode": "0225",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0516/15264328416190.jpg"
     },
     "CGV순천": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0114"
+        "theaterCode": "0114",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGVsuncheon.jpg"
     },
     "CGV순천신대": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0268"
+        "theaterCode": "0268",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2018/0423/15244509455140.jpg"
     },
     "CGV여수웅천": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0315"
+        "theaterCode": "0315",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1223/15770769171370.jpg"
     },
     "CGV익산": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0020"
+        "theaterCode": "0020",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/CGViksan.jpg"
     },
     "CGV전주고사": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0213"
+        "theaterCode": "0213",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2016/0211/cgvjjgs01.jpg"
     },
     "CGV전주에코시티": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0336"
+        "theaterCode": "0336",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2021/1105/16360742056600.jpg"
     },
     "CGV전주효자": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0179"
+        "theaterCode": "0179",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(10).jpg"
     },
     "CGV정읍": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0186"
+        "theaterCode": "0186",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2014/1211/noimage_final(13).jpg"
     },
     "CGV제주": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0302"
+        "theaterCode": "0302",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/1118/15740522960800.jpg"
     },
     "CGV제주노형": {
         "areacode": "206%2C04%2C06",
-        "theaterCode": "0259"
+        "theaterCode": "0259",
+        "img": "https://img.cgv.co.kr/Theater/Theater/2019/0425/15561501411340.jpg"
     }
 }
