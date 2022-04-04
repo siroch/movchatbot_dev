@@ -15,7 +15,7 @@ class Filtering_Data:
         self.pd_file = self.data.csv_load()
 
     def single_genre(self, genre):
-        print(self.pd_file[self.pd_file['장르'].str.contains(genre)])
+        print(self.pd_file[self.pd_file['장르'].str.contains(genre, na=False)])
 
     def many_or_genres(self, genre):
         genre = '|'.join(genre)
@@ -25,13 +25,13 @@ class Filtering_Data:
         print(self.pd_file[self.pd_file['장르'].map(lambda x: all(string in x for string in genre))])
 
     def director(self, name):
-        print(self.pd_file[self.pd_file['감독'].str.contains(name)])
+        print(self.pd_file[self.pd_file['감독'].str.contains(name, na=False)])
 
     def actor(self, name):
-        print(self.pd_file[self.pd_file['배우'].str.contains(name)])
+        print(self.pd_file[self.pd_file['배우'].str.contains(name, na=False)])
 
     def nation(self, name):
-        print(self.pd_file[self.pd_file['제작국가'].str.contains(name)])
+        print(self.pd_file[self.pd_file['제작국가'].str.contains(name, na=False)])
 
     def filter_order(self, query, filter_data):
         if query == '단일 장르':
@@ -71,12 +71,12 @@ if __name__ == '__main__':
     print("\n\n\n\n")
     print("특정 감독이 찍은 영화")
     print("--------------------------------------------------------")
-    # test.filter_order('감독','정용기')
+    test.filter_order('감독','정용기')
 
     print("\n\n\n\n")
     print("특정 배우가 찍은 영화")
     print("--------------------------------------------------------")
-    # test.filter_order('배우','정준호')
+    test.filter_order('배우','정준호')
 
     print("\n\n\n\n")
     print("특정 국가에서 찍은 영화")
