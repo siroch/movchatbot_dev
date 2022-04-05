@@ -1,85 +1,87 @@
-import argparse
-
-import matplotlib.pyplot as plt
-import torch
 import pandas as pd
-from torch import nn
+import numpy as np
 
-from torch.utils.data import DataLoader
-
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from utils import RecommendationDataset
 
 class Filtering_Data:
     def __init__(self):
         self.data = RecommendationDataset()
-        self.pd_file = self.data.csv_load()
+        self.pd_file = self.data.csv_load().drop(['Unnamed: 9'],axis=1)
+        self.pd_file = self.pd_file.fillna('')
+
+    def dataset(self):
+        return self.pd_file
 
     def single_genre(self, genre):
-        print(self.pd_file[self.pd_file['장르'].str.contains(genre, na=False)])
+        return self.pd_file[self.pd_file['장르'].str.contains(genre, na=False)]
 
     def many_or_genres(self, genre):
         genre = '|'.join(genre)
-        print(self.pd_file.query(f'장르.str.contains("{genre}")', engine='python'))
+        return self.pd_file.query(f'장르.str.contains("{genre}")', engine='python')
 
     def many_and_genres(self, genre):
-        print(self.pd_file[self.pd_file['장르'].map(lambda x: all(string in x for string in genre))])
+        return self.pd_file[self.pd_file['장르'].map(lambda x: all(string in x for string in genre))]
 
     def director(self, name):
-        print(self.pd_file[self.pd_file['감독'].str.contains(name, na=False)])
+        return self.pd_file[self.pd_file['감독'].str.contains(name, na=False)]
 
-    def actor(self, name):
-        print(self.pd_file[self.pd_file['배우'].str.contains(name, na=False)])
+    def single_actor(self, name):
+        return self.pd_file[self.pd_file['배우'].str.contains(name, na=False)]
+
+    def many_actor(self, name):
+        return self.pd_file[self.pd_file['배우'].map(lambda x: all(string in x for string in name))]
 
     def nation(self, name):
-        print(self.pd_file[self.pd_file['제작국가'].str.contains(name, na=False)])
+        return self.pd_file[self.pd_file['제작국가'].str.contains(name, na=False)]
 
     def filter_order(self, query, filter_data):
         if query == '단일 장르':
-            self.single_genre(filter_data)
+            output = self.single_genre(filter_data)
         elif query == '모든 장르':
-            self.many_and_genres(filter_data)
+            output = self.many_and_genres(filter_data)
         elif query == '장르':
-            self.many_or_genres(filter_data)
+            output = self.many_or_genres(filter_data)
         elif query == '감독':
-            self.director(filter_data)
+            output = self.director(filter_data)
+        elif query == '단일 배우':
+            output = self.single_actor(filter_data)
         elif query == '배우':
-            self.actor(filter_data)
+            output = self.many_actor()
         elif query == '국가':
-            self.nation(filter_data)
+            output = self.nation(filter_data)
+        return output
+
+def find_sim_movie(df, sorted_ind, title_name, top_n=10):
+    title_movie = df[df['영화명']==title_name]
+
+    title_index = title_movie.index.values
+    similar_indexes = sorted_ind[title_index, :(top_n)]
+
+    similar_indexes = similar_indexes.reshape(-1)
+
+    return df.iloc[similar_indexes]
+
+def recommendsystem(data, query, filter_data):
+    fil_data = data.filter_order(query, filter_data)
+
+    count_vect = CountVectorizer(min_df=0, ngram_range=(1, 2))
+    genre_mat = count_vect.fit_transform(fil_data['줄거리'])
+
+    genre_sim = cosine_similarity(genre_mat, genre_mat)
+
+    genre_sim_sorted_ind = genre_sim.argsort()[:, ::-1]
+
+    similar_movies = find_sim_movie(fil_data, genre_sim_sorted_ind, "아이언맨", 10)
+    print(similar_movies[['영화명', '평점']])
+
 
 
 if __name__ == '__main__':
     test = Filtering_Data()
-
-    filtering_genre = '애니메이션'
-    print("단일 장르 필터링, 해당 장르가 포함된 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('단일 장르',filtering_genre)
-
-    filtering_genre_list = ['애니메이션', '판타지']
-    print("\n\n\n\n")
-    print("or 연산, 주어진 장르들 중 하나라도 포함된 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('장르',filtering_genre_list)
-
-
-    print("\n\n\n\n")
-    print("and 연산, 주어진 장르들 모두 포함된 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('모든 장르',filtering_genre_list)
-
-    print("\n\n\n\n")
-    print("특정 감독이 찍은 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('감독','정용기')
-
-    print("\n\n\n\n")
-    print("특정 배우가 찍은 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('배우','정준호')
-
-    print("\n\n\n\n")
-    print("특정 국가에서 찍은 영화")
-    print("--------------------------------------------------------")
-    test.filter_order('국가','한국')
-
+    query = '단일 장르'
+    filter_tag = 'SF'
+    # filter_data는 함수 호출 이전에 리스트 or 단일 문자열로 처리
+    # 단일 장르, 감독, 단일 배우, 국가는 문자열, 모든 장르와 장르와 배우는 리스트(인자 2개 이상임)
+    recommendsystem(test, query, filter_tag)
