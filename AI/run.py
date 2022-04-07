@@ -73,16 +73,17 @@ def recommendsystem(data, query, filter_data, cinema_name):
 
     genre_sim_sorted_ind = genre_sim.argsort()[:, ::-1]
 
-    similar_movies = find_sim_movie(fil_data, genre_sim_sorted_ind, cinema_name, 10)
+    similar_movies = find_sim_movie(fil_data, genre_sim_sorted_ind, cinema_name, len(fil_data))
     return similar_movies[['영화명', '평점']]
 
 
-
 if __name__ == '__main__':
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
     test = Filtering_Data()
     query = '단일 장르'
-    filter_tag = 'SF'
-    cinema_name = '메이즈 러너'
+    filter_tag = '판타지'
+    cinema_name = '해리포터와 마법사의 돌'
     # filter_data는 함수 호출 이전에 리스트 or 단일 문자열로 처리
     # 단일 장르, 감독, 단일 배우, 국가는 문자열, 모든 장르와 장르와 배우는 리스트(인자 2개 이상임)
     print(recommendsystem(test, query, filter_tag, cinema_name))
