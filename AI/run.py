@@ -64,7 +64,7 @@ def find_sim_movie(df, sorted_ind, title_name, top_n=10):
     return df.iloc[similar_indexes]
 
 def recommendsystem(data, query, filter_data):
-    fil_data = data.filter_order(query, filter_data)
+    fil_data = data.filter_order(query, filter_data).reset_index()
 
     count_vect = CountVectorizer(min_df=0, ngram_range=(1, 2))
     genre_mat = count_vect.fit_transform(fil_data['줄거리'])
@@ -74,7 +74,7 @@ def recommendsystem(data, query, filter_data):
     genre_sim_sorted_ind = genre_sim.argsort()[:, ::-1]
 
     similar_movies = find_sim_movie(fil_data, genre_sim_sorted_ind, "아이언맨", 10)
-    print(similar_movies[['영화명', '평점']])
+    return similar_movies[['영화명', '평점', '장르']]
 
 
 
@@ -84,4 +84,4 @@ if __name__ == '__main__':
     filter_tag = 'SF'
     # filter_data는 함수 호출 이전에 리스트 or 단일 문자열로 처리
     # 단일 장르, 감독, 단일 배우, 국가는 문자열, 모든 장르와 장르와 배우는 리스트(인자 2개 이상임)
-    recommendsystem(test, query, filter_tag)
+    print(recommendsystem(test, query, filter_tag))
