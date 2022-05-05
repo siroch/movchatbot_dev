@@ -8,7 +8,7 @@ from utils import RecommendationDataset
 class Filtering_Data:
     def __init__(self):
         self.data = RecommendationDataset()
-        self.pd_file = self.data.csv_load().drop(['Unnamed: 9'],axis=1)
+        self.pd_file = self.data.csv_load()
         self.pd_file = self.pd_file.fillna('')
 
     def dataset(self):
