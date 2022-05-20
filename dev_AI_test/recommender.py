@@ -125,15 +125,15 @@ class NEW_MF():
 	def full_prediction(self):
 		return self.b + self.b_u[:,np.newaxis] + self.b_d[np.newaxis,:] + self.P.dot(self.Q.T)
 
-# base_src = './data'
-# u_data_src = os.path.join(base_src,'u.data')
-# r_cols = ['user_id', 'movie_id', 'rating', 'timestamp']
-# ratings = pd.read_csv(u_data_src, sep='\t', names=r_cols, encoding='latin-1')
+with open("datas.pickle","rb") as f:
+    df = pickle.load(f)
 
-ratings = pd.read_csv('./review_datas.csv')
+ratings = df[['UserID', 'MovieID', "Rating"]]
 
-R_temp = ratings.pivot(index='user_id', columns='movie_id', values='rating').fillna(0)
-ratings_train, ratings_test = train_test_split(ratings,
+ratings.columns = ['user_id', 'movie_id', 'rating']
+
+R_temp = ratings.astype(int).pivot(index='user_id', columns='movie_id', values='rating').fillna(0)
+ratings_train, ratings_test = train_test_split(ratings.astype(int),
 												test_size=0.2,
 												shuffle=True,
 												random_state=2021)
@@ -152,14 +152,4 @@ result = mf.test()
 
 with open("model.pickle","wb") as f:
     pickle.dump(mf.full_prediction(), f)
-
-feat.view_print('불사조: ',mf.get_one_prediction(1509,2819))
-feat.view_print('불의잔: ',mf.get_one_prediction(1509,2993))
-feat.view_print('죽성1: ',mf.get_one_prediction(1509,3003))
-feat.view_print('신동사: ',mf.get_one_prediction(1509,549))
-feat.view_print('그린델왈드: ',mf.get_one_prediction(1509,328))
-feat.view_print('아이언맨: ',mf.get_one_prediction(1509,38))
-feat.view_print('어벤져스 인피니티: ',mf.get_one_prediction(1509,184))
-feat.view_print('1,1: ',mf.get_one_prediction(1,1))
-
 
