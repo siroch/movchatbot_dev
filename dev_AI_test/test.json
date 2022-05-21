@@ -1,0 +1,55 @@
+{
+   "action": {
+      "clientExtra": {},
+      "detailParams": {
+         "loc1": {
+            "groupName": "",
+            "origin": "수원시 인계동",
+            "value": "인계동"
+         }
+      },
+      "id": "627f93a99ac8ed784416a9ad",
+      "name": "test",
+      "params": {
+         "loc1": "인계동"
+      }
+   },
+   "bot": {
+      "id": "61e6c5378674b115046f306b",
+      "name": "영화 챗봇"
+   },
+   "contexts": [],
+   "intent": {
+      "extra": {
+         "reason": {
+            "code": 0,
+            "message": "OK"
+         }
+      },
+      "id": "627dfc9445b5fc310645ddda",
+      "name": "사용자 위치 입력"
+   },
+   "userRequest": {
+      "block": {
+         "id": "627dfc9445b5fc310645ddda",
+         "name": "사용자 위치 입력"
+      },
+      "lang": "ko",
+      "params": {
+         "surface": "Kakaotalk.plusfriend"
+      },
+      "timezone": "Asia/Seoul",
+      "user": {
+         "id": "6a4300e36a0f6498bd0da951924304208eaee4387c99a1a2f1324d671933a38911",
+         "properties": {
+            "botUserKey": "6a4300e36a0f6498bd0da951924304208eaee4387c99a1a2f1324d671933a38911",
+            "bot_user_key": "6a4300e36a0f6498bd0da951924304208eaee4387c99a1a2f1324d671933a38911",
+            "isFriend": "True",
+            "plusfriendUserKey": "WLUbyijdaBNr",
+            "plusfriend_user_key": "WLUbyijdaBNr"
+         },
+         "type": "botUserKey"
+      },
+      "utterance": "토르: 마법 검의 전설"
+   }
+}
