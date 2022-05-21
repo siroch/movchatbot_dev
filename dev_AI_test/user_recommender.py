@@ -96,6 +96,9 @@ if __name__ == '__main__':
     test = User_Recommender(User_req)
 
     if test.isUser:
+        # 기존 유저일경우 실행됨
+        # 장르는 [['액션', 9],['판타지',7],...] 와 같이 리턴됨, 인덱스 0번이 가장 좋아할만한 장르
+        # 추천은 ['닥터 스트레인지: 대혼돈의 멀티버스', '이터널스', ....] 와 같이 리턴됨, 인덱스 0번이 제일 추천하는 영화
         print(test.genre_extract())
         print(test.recommender_movie(5))
     else:
